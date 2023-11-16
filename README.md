@@ -5,7 +5,7 @@
 This Python script serves as a powerful tool for injecting custom shellcode into Windows PE (Portable Executable) files, offering an alternative to traditional techniques like Shellter Pro. It is specifically crafted for penetration testers and ethical hackers, enabling them to enhance their arsenal by injecting code into executable files discreetly. This tool facilitates the addition of a new section to the target executable, allowing for the injection of tailored code to achieve various objectives during penetration testing.
 ## Price and where to buy it
 
-Price: 18$
+Price: 27.30$
 
 Url: https://satoshidisk.com/pay/CJtea0
 
